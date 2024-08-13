@@ -1,0 +1,8 @@
+# Dependences
+node_modules
+
+# Tests
+coverage
+
+# System
+.DS_Store
