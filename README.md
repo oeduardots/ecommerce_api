@@ -5,16 +5,16 @@
 ## Requisitos Funcionais (RFs):
 
 ### 1. Gestão de Usuários:
-- [ ] **RF-01**: **Cadastro de Usuários**
+- [X] **RF-01**: **Cadastro de Usuários**
   - O sistema deve permitir que novos usuários se cadastrem, fornecendo informações como nome, e-mail e senha;
 
-- [ ] **RF-02**: **Autenticação de Usuários**
+- [X] **RF-02**: **Autenticação de Usuários**
   - O sistema deve permitir que os usuários cadastrados façam login usando e-mail e senha;
 
-- [ ] **RF-03**: **Recuperação de Senha**
+- [X] **RF-03**: **Recuperação de Senha**
   - O sistema deve permitir que os usuários solicitem a recuperação de senha por e-mail;
 
-- [ ] **RF-04**: **Atualização de Perfil**
+- [X] **RF-04**: **Atualização de Perfil**
   - O sistema deve permitir que os usuários atualizem as suas informações de perfil, como nome, e-mail, telefone e endereço;
 
 - [ ] **RF-05**: **Visualização de Histórico de Pedidos** 
